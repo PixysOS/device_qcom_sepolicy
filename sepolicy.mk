@@ -28,3 +28,4 @@ BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
 
 -include device/pixys/sepolicy/qcom/sepolicy.mk
 -include device/pixys/sepolicy/common/sepolicy.mk
+
